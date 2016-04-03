@@ -18,6 +18,11 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
 interpreted as described in RFC 2119.
 
 
+=head1 STATUS
+
+Experimental, specification might change without notice.
+
+
 =head1 DESCRIPTION
 
 This document describes a set of convention for modules that generate sample
